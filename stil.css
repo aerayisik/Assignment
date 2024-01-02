@@ -1,0 +1,79 @@
+.body {
+    font-family: "Lato";
+}
+.navbar {
+ background-color: rgb(44,62,80);
+}
+.navbar-brand {
+     font-size: 28px;
+    font-weight: 700;
+}
+section.sinif {
+    background-color: rgb(26,188,156);
+    padding-top: 200px;
+    padding-bottom: 96px;
+    text-align: center;
+/*BURADAN BAŞLADIK*/
+}
+.sinif img {
+    width: 240px;
+    height: auto;
+}
+.sinif h1 {
+    font-size: 64px;
+    font-weight: 700;
+}
+.sinif p {
+    font-size: 24px;
+}
+.portfolio {
+    padding: 6rem 0;
+}
+.portfolio h2 {
+    font-size: 3rem;
+    line-height: 2.5rem;
+    text-align: center;
+}
+.portfolio img {
+    width: 380px;
+    height: auto;
+    border-radius: 0.5rem;
+}
+.hakkinda {
+    background-color: rgb(26,188,156);
+    padding: 100px 0;
+    color: #FFF;
+    font-size: 20px;
+}
+.hakkinda h2 {
+    text-align: center;
+    font-size: 48px;
+}
+.hakkinda .tus {
+    text-align: center;
+}
+.hakkinda .tus button {
+    padding: 16px 26px;
+    font-size: 25px;
+}
+.lokasyon {
+    background-color: rgb(44,62,80);
+    padding: 5rem 0;
+    text-align: center;
+    color: #FFF;
+    font-size: 20px;
+}
+.lokasyon h4 {
+    font-size: 24px;
+    font-weight: 700;
+
+}
+
+
+
+footer {
+    background-color: #1a252f;
+    color: #FFF;
+    text-align: center;
+    font-size: 14px;
+}
